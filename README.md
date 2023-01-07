@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayomide</h1>
-<h3 align="center">A delicated fullstack developer interesting in using JS, TS, Rust in building highly performant, user friendly web products while following modern practices.</h3>
+<h3 align="center">A delicated fullstack developer interested in using JS, TS, Rust in building highly performant, user friendly web products while following modern practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devphrasex&label=Profile%20views&color=0e75b6&style=flat" alt="devphrasex" /> </p>
 
