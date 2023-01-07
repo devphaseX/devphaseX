@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14012
-Fork on GitHub
-3722
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ayomide</h1>
 <h3 align="center">A delicated fullstack developer interesting in using JS, TS, Rust in building highly performant, user friendly web products following modern practices</h3>
 
