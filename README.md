@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayọ̀mídé</h1>
-<h3 align="center">A delicated fullstack developer interested in using JS, TS, Rust in building highly performant, user friendly web products while adhering to modern development best practices with working knowledge in design patterns.</h3>
+<h3 align="center">A dedicated fullstack developer skilled in building products with TS, Go, Rust, and user-friendly web products while adhering to modern development best practices with working knowledge in design patterns.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devphrasex&label=Profile%20views&color=0e75b6&style=flat" alt="devphrasex" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devphrasex" alt="devphrasex" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Web Assembly, Microservice, DSA, Typescript**
+- 🌱 I’m currently exploring **Rust, Web Assembly, Go**
 
-- 💬 Ask me about **Typescript, React, Rust, Javascript**
+- 💬 Ask me about **Typescript, React,Next.JS, Go, Rust, Javascript**
 
 - 📫 How to reach me **ayomideLawal700@gmail.com**
 
