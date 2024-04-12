@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayọ̀mídé</h1>
-<h3 align="center">A dedicated fullstack developer skilled in building products with TS, Go, Rust, and user-friendly web products while adhering to modern development best practices with working knowledge in design patterns.</h3>
+<h3 align="center">A dedicated fullstack developer skilled in building products with TS, Go, Rust, while adhering to modern development best practices with working knowledge in design patterns.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devphrasex&label=Profile%20views&color=0e75b6&style=flat" alt="devphrasex" /> </p>
 
